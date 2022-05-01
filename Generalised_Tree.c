@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include<windows.h>
 
 struct node;
 struct br;
